@@ -1,10 +1,12 @@
-### _***Luso Vilantino***_
+# LSV ― público
 
 <img src="https://user-images.githubusercontent.com/118770355/232245381-213897db-1ce7-4705-8b57-bba86627b3d5.png"/>
 
 ###### Este documento ou quaisquer citados nele, pertencentes ao grupo Vilantino, são de acesso público e não devem ser re-publicados com quaisquer modificações. 
 
 #
+
+### _***Luso Vilantino***_
 
 Desenvolvo projectos que me vêm à curiosidade, aqueles que sempre tive vontade de fazer, mas nunca os iniciei por achar difícil demais, ou por pedirem conhecimentos que talvez não estejam ao meu alcance, por enquanto.
 
