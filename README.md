@@ -16,7 +16,7 @@ Tive a idéia de, mesmo sem saber como, fazer uma motriz gráphica, sem usar de 
 
 Estes projectos não se encontram publicamente, estão a ser desenvolvidos às escondidas, mas eventualmente deixarei algumas demonstrações abertas.
 
-***Alguns projectos abertos listados neste perfil são espelhados da organização @LSVilantino***
+***Alguns projectos abertos listados neste perfil são espelhados da organização @LSVilantino e podem estar desactulizados, entra no repositório original***
 
 
 #
